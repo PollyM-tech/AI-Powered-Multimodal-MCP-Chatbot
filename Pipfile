@@ -20,6 +20,7 @@ requests = "*"
 mcp = {extras = ["cli"], version = "*"}
 anyio = "*"
 git-filter-repo = "*"
+streamlit = "*"
 
 [dev-packages]
 
