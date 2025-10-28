@@ -19,6 +19,7 @@ tiktoken = "*"
 requests = "*"
 mcp = {extras = ["cli"], version = "*"}
 anyio = "*"
+git-filter-repo = "*"
 
 [dev-packages]
 
